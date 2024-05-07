@@ -6,4 +6,4 @@ Para descobrir siga os passos a seguir:
 2. Cole a pontuação (retirando a vírgula)
 3. Pressione 'Enter' e o feedback será mostrado
 
-Lembrando que dependendo da cor da pontuação no feedback, vai ter um desempenho diferente (Não se preocupe, no feedback também aparecerá o desempenho):
+Lembrando que dependendo da cor da pontuação no feedback, vai ter um desempenho diferente (Não se preocupe, no feedback também aparecerá o desempenho)
