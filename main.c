@@ -20,7 +20,7 @@ void mostrar(int bench) {
     } else if (bench >= 1000) {
         printf("\033[0;31mIndicado para tarefas basicas.\033[0m");
     } else if (bench >= 800) {
-        printf("\033[1;38mEsta no limite da pontuação utilizável. So eh útil para acessar a internet e algumas tarefas corriqueiras.\033[0m");
+        printf("\033[1;38mEsta no limite da pontuacao utilizÃ¡vel. So eh util para acessar a internet e algumas tarefas corriqueiras.\033[0m");
     } else {
         printf("\033[1;31mNao compensa usar esse processador.\033[0m");
     }
