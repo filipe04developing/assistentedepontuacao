@@ -1,5 +1,5 @@
 # interpretadordepontuacao
-Olhou feedbacks no site cpubenchmark.net e não sabe o que significa? Use esse programa simples para descobrir ;)
+Olhou os benchmarks do site cpubenchmark.net e não sabe o que a pontuação significa? Use esse programa simples para descobrir ;)
 
 Para descobrir siga os passos a seguir:
 1. Pesquise o processador que deseja ver e copie a pontuação "CPU MARK (Higher is better)"
